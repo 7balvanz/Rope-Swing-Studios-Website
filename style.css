@@ -41,3 +41,5 @@ body.home{height:100vh;height:100dvh;overflow:hidden;display:grid;grid-template-
 .home .hero-number{top:24px}
 @media(max-width:650px){.home h1{font-size:clamp(32px,min(11.5vw,12dvh),78px)}.home>footer{gap:8px}.home>footer>div{gap:14px}}
 @media(max-height:500px){.home .header{height:64px}.home .header .brand img{height:54px}.home .hero{padding-top:8px;padding-bottom:8px}.home h1{font-size:min(8vw,14dvh);margin-bottom:8px}.home .round-link{width:32px;height:32px;font-size:18px}.home .hero-number{display:none}.home>footer{padding-top:8px;padding-bottom:8px}}
+
+.login-page .login-section{margin-top:46px;max-width:460px}.login-form{display:grid;gap:10px}.login-form label{font-size:11px;letter-spacing:1.5px;color:var(--quiet);margin-top:10px}.login-form input{background:var(--ink);border:1px solid var(--line);color:var(--paper);font:inherit;font-size:16px;padding:14px;border-radius:0}.login-form input:focus{outline:2px solid #81b3ff;outline-offset:2px}.login-form button{margin-top:20px;background:var(--blue);color:#eef0eb;border:0;font:inherit;font-size:13px;letter-spacing:1.5px;padding:16px;cursor:pointer}.login-form button:hover{background:#3175d4}
