@@ -4,7 +4,7 @@ Complete source and assets copied from the existing live site on November 1, 202
 
 ## Run or host
 
-Serve `dist/` as the web root. No build step is required. Pages: Home (`index.html`), Our Studio (`studio.html`), Our Work (`work.html`), Our Games (`games.html`). All referenced local images, SVG logos, CSS, and JavaScript are included.
+Serve the repository root as the web root. No build step is required. Pages: Home (`index.html`), Our Studio (`studio.html`), Our Work (`work.html`), Our Games (`games.html`). All referenced local images, SVG logos, CSS, and JavaScript are included.
 
 ## Deployment
 
